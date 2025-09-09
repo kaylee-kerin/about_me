@@ -1,7 +1,15 @@
 # Bio
 
 Electronics, Software, Hardware, Wood, Metal, 3D, AI, and Business Automation.  Here's a selection of projects and concepts I've worked on and learned from.  Many of them were experimental projects, not finished products.
+
+A generalist & problem solver for over 20 years in what has become a Tier-1 contract electronics manufacturing company.  Hands on and leadership in projects and processes from all over the business and operations, from the floor to the c-suite.  MES/Quality Managment Systems, Document Control, Test Engineering, Supply Chain, Purchasing, Planning, Accounting, Audit, IT Ops, Forecasting, Capital Approval, Supplier Audits, CAPA, New Product Introduction, and M&A.
+
+My focus has always been on getting messy in the details, then collaborate to solve real problems.
  
+
+
+Below is a selection of the projects I can talk about in depth, pretty much all personal projects.
+
 
 # 3D Printing
 I've worked with FDM and MSLA printing, built and customized 3d printers, and done thousands of prints of various mechanical and artistic components.
