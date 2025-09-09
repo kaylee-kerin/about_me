@@ -4,7 +4,7 @@ Electronics, Software, Hardware, Wood, Metal, 3D, AI, and Business Automation.  
 
 A generalist & problem solver for over 20 years in what has become a Tier-1 contract electronics manufacturing company.  Hands on and leadership in projects and processes from all over the business and operations, from the floor to the c-suite.  MES/Quality Managment Systems, Document Control, Test Engineering, Supply Chain, Purchasing, Planning, Accounting, Audit, IT Ops, Forecasting, Capital Approval, Supplier Audits, CAPA, New Product Introduction, and M&A.
 
-My focus has always been on getting messy in the details, then collaborate to solve real problems.
+My focus has always been on getting messy in the details, then collaborate to solve real problems with leaders and the people who will become leaders.
  
 
 
